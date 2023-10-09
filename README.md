@@ -16,5 +16,7 @@ Interested in which part of the image contributes to the final result.
 ---
 [schedual](/schedual.md)
 
+[problems](/problem_Oct9.md)
+
 
 
